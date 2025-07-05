@@ -1,0 +1,4 @@
+numpy – Used for numerical computations and manipulation of image pixel arrays.
+pillow – Used for image processing, including opening, modifying, and saving images.
+ipywidgets – Enables the creation of interactive user interface elements.
+ipython – Facilitates the display of rich outputs, including HTML content.
